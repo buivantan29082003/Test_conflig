@@ -1,2 +1,2 @@
-const b=""
+const b="heleo"
 const a="devtao lao"   
